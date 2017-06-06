@@ -1,0 +1,76 @@
+*{
+	box-sizing:border-box;
+	margin: 0;
+	padding: 0;
+
+}
+nav {
+	background-color: #ffac00;
+    overflow: auto;
+
+
+  }
+  nav li {
+  	float: left;
+  	text-align: center;
+  	width: 25%;
+  	list-style: none;
+  }
+
+  nav a{
+  	text-decoration: none;
+  	color: green;
+  	font-size: x-large;
+  }
+
+h1{
+	text-align: center;
+	background-image: url("../images/plant.jpeg");
+	background-size: cover;
+	padding: 200px;
+	color:yellow;
+	border: 2px solid black;
+}
+
+  img{
+  	width:70%;
+  	border-radius: 10%;
+  	display: block;
+  	padding: auto;
+  	margin: auto;
+  	border: 2px solid black;
+
+  }
+  .main-container{
+  	overflow: auto;
+  	border: 2px solid black;
+  }
+
+h3{
+	text-align: center;
+}
+
+  .summer-rain{
+  	width: 50%;
+  	float: left;
+  	padding: 50px;
+  	border-right: 2px solid black
+  }
+
+  .rain-umrella{
+  	width: 50%;
+  	float: left;
+  	padding:50px;
+  	border-right: 2px solid black;
+  	text-align: 10px;
+
+
+  }
+
+  h3{
+  	text-align: auto;
+  }
+
+.copy{
+	text-align:center;
+}
